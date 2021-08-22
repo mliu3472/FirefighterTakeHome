@@ -1,0 +1,7 @@
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\bin\Debug\Firefighters.dll.config
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\bin\Debug\Firefighters.dll
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\bin\Debug\Firefighters.pdb
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\obj\Debug\Firefighters.csproj.AssemblyReference.cache
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\obj\Debug\Firefighters.csproj.CoreCompileInputs.cache
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\obj\Debug\Firefighters.dll
+C:\Users\michelle.liu\Downloads\FirefighterTakeHome_v1-csharp\src\main\obj\Debug\Firefighters.pdb
